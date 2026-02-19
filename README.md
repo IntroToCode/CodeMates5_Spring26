@@ -1,6 +1,6 @@
 # Recipe Index
 
-- Breakfast: 
+- Breakfast: Norwegian Waffles (Vafler)
 - Lunch: 
 - Dinner: 
 
