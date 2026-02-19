@@ -1,6 +1,6 @@
 # Recipe Index
 
-- Breakfast: 
+- Breakfast: Norweigian Waffle
 - Lunch: 
 - Dinner: 
 
