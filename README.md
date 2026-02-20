@@ -15,20 +15,16 @@ Cheeseboard Collective pizza is a Berkeley classic, known for its daily vegetari
 | Difficulty | Medium |
 | Tags | vegetarian, quick, lunch, Berkeley |
 
-<!-- Note the fields in the markdown table -->
-
-
 ### Ingredients:
 
-- 1 ball pizza dough (sourdough preferred)
-- 1 cup tomato sauce
-- 2 cups shredded mozzarella cheese
-- 1/2 cup ricotta cheese
-- 1 cup seasonal vegetables (e.g., mushrooms, spinach, zucchini)
-- 1 tablespoon olive oil
-- Salt to taste
-- Red pepper flakes (optional)
-
+1 ball pizza dough (sourdough preferred)  
+1 cup tomato sauce  
+2 cups shredded mozzarella cheese  
+1/2 cup ricotta cheese  
+1 cup seasonal vegetables (e.g., mushrooms, spinach, zucchini)  
+1 tablespoon olive oil  
+Salt to taste  
+Red pepper flakes (optional)  
 
 ### Steps for preparation:
 
@@ -41,11 +37,10 @@ Cheeseboard Collective pizza is a Berkeley classic, known for its daily vegetari
 7. Bake for 12–15 minutes, or until the crust is golden and crisp.
 8. Remove from the oven, let cool slightly, slice, and serve warm.
 
-
 ### Notes:
 
 Cheeseboard is famous for offering only one vegetarian pizza flavor per day. Feel free to rotate toppings based on seasonal produce, just like the original collective does.
 
 ### Author(s):
 
-- Ehren Chang
+Ehren Chang
