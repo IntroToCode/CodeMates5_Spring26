@@ -1,7 +1,14 @@
+# Recipe Index
+
+- Breakfast: Norwegian Waffles (Vafler)
+- Lunch: Cheeseboard Pizza
+- Dinner: Classic Southern Buttermilk Fried Chicken
+
+---
+
 # Cheeseboard Pizza
 
 ## Description
-
 Cheeseboard Collective pizza is a Berkeley classic, known for its daily vegetarian slice topped with fresh, seasonal ingredients. Its thin sourdough crust and ever-changing toppings make it a campus favorite for lunch.
 
 ## Stats
