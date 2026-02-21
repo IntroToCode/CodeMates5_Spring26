@@ -1,8 +1,8 @@
 # Recipe Index
 
-- Breakfast: 
+- Breakfast: Norweigian Waffle
 - Lunch: 
-- Dinner: 
+- Dinner: Fried Chicken 
 
 _Notes_
 __
