@@ -1,46 +1,46 @@
-# Replace with recipe name
+# Cheeseboard Pizza
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
-
+Cheeseboard Collective pizza is a Berkeley classic, known for its daily vegetarian slice topped with fresh, seasonal ingredients. Its thin sourdough crust and ever-changing toppings make it a campus favorite for lunch.
 
 ## Stats
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, lunch |
-
-
-<!-- Note the fields in the markdown table -->
-
+| Prep Time | 20 minutes |
+| Cook Time | 15 minutes |
+| Total Time | 35 minutes |
+| Servings | 4 |
+| Difficulty | Medium |
+| Tags | vegetarian, quick, lunch, Berkeley |
 
 ### Ingredients:
 
-- [ ] add ingredient here
-      
-<!-- List every ingredient -->
-
+1 ball pizza dough (sourdough preferred)  
+1 cup tomato sauce  
+2 cups shredded mozzarella cheese  
+1/2 cup ricotta cheese  
+1 cup seasonal vegetables (e.g., mushrooms, spinach, zucchini)  
+1 tablespoon olive oil  
+Salt to taste  
+Red pepper flakes (optional)
 
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
-
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
-
+1. Preheat the oven to 475°F (245°C).
+2. Roll out the pizza dough on a lightly floured surface until thin and evenly shaped.
+3. Spread the tomato sauce evenly over the dough, leaving a small border around the edges.
+4. Sprinkle mozzarella and dollop ricotta across the surface.
+5. Evenly distribute the seasonal vegetables on top.
+6. Drizzle with olive oil and season lightly with salt.
+7. Bake for 12–15 minutes, or until the crust is golden and crisp.
+8. Remove from the oven, let cool slightly, slice, and serve warm.
 
 ### Notes:
 
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
-
+Cheeseboard is famous for offering only one vegetarian pizza flavor per day. Feel free to rotate toppings based on seasonal produce.
 
 ### Author(s):
 
-- Ehren Chang
+Ehren Chang
