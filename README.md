@@ -1,8 +1,5 @@
 # Recipe Index
 
-- Breakfast: Norweigian Waffle
-- Lunch: 
-- Dinner: Fried Chicken 
-
-_Notes_
-__
+- Breakfast: Norwegian Waffles (Vafler)
+- Lunch: Cheeseboard Pizza
+- Dinner: Classic Southern Buttermilk Fried Chicken
