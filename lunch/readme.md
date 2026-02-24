@@ -1,8 +1,8 @@
-# Cheeseboard Pizza
+# Cheeseboard Inspired Pizza
 
 ## Description
 
-Cheeseboard Collective pizza is a Berkeley classic, known for its daily vegetarian slice topped with fresh, seasonal ingredients. Its thin sourdough crust and ever-changing toppings make it a campus favorite for lunch.
+Cheeseboard Collective pizza is a Berkeley classic, known for its daily vegetarian slice topped with fresh, seasonal ingredients. Its thin sourdough crust and ever-changing toppings make it a campus favorite for lunch. This recipe is independently developed, inspired by general sourdough pizza traditions, and is not affiliated with or copying Cheeseboard Collective’s brand, recipes, or style.
 
 ## Stats
 
