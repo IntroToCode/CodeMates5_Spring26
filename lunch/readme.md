@@ -14,6 +14,8 @@ Cheeseboard Collective pizza is a Berkeley classic, known for its daily vegetari
 | Servings | 4 |
 | Difficulty | Medium |
 | Tags | vegetarian, quick, lunch, Berkeley |
+| Spice Level | 🌶️ |
+
 
 ### Ingredients:
 
