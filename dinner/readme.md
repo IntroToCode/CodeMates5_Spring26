@@ -1,4 +1,4 @@
-# Classic Southern Buttermilk Fried Chicken
+# Classic Southern Buttermilk Fried Chicken with Drink Pairing
 
 ## Description
 
@@ -56,6 +56,12 @@ This iconic dish features chicken marinated in tangy buttermilk and coated in a 
 
 6. Drain and rest: Remove the chicken from the oil and place it on a wire cooling rack set over a baking sheet. Let it rest for 5–10 minutes before serving to keep the crust intact.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
+
+### Drink Pairing:
+
+Guiness and Tequila
+
+Guinness pairs well with fried chicken because its roasted, mildly bitter notes and carbonation easily cut through the rich fattiness of the meat, while tequila's bright acidity and earthy agave serve as a sharp, refreshing palate cleanser that perfectly balances the dish's heavy, savory crunch.
 
 ### Notes:
 
