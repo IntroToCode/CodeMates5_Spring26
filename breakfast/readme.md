@@ -1,36 +1,39 @@
-# Replace with recipe name
+# Norwegian Pancakes
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+Classic fluffy pancakes, perfect for a weekend breakfast.
 
 ## Stats
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
-
-<!-- Note the fields in the markdown table -->
+| Prep Time | 10 minutes |
+| Cook Time | 15 minutes |
+| Total Time | 25 minutes |
+| Servings | 4 |
+| Difficulty | Medium |
+| Tags | vegetarian, quick, breakfast |
 
 ### Ingredients:
-- [ ] add ingredient here
+1 1/2 cups all-purpose flour
+2 tablespoons sugar
+1 tablespoon baking powder
+1 cup milk
+1 egg
+2 tablespoons melted butter
       
-<!-- List every ingredient -->
-
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
-
+1. Mix flour, sugar, and baking powder in a bowl.
+2. Add milk, egg, and melted butter. Stir until just combined.
+3. Heat a pan over medium heat and pour 1/4 cup batter per pancake.
+4. Cook until bubbles form on top, then flip and cook another 1-2 minutes.
+   
 ### Notes:
 
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
+Just do it!
 
 ### Author(s):
+
+John Wells
