@@ -72,5 +72,10 @@ Double Dredge: For those "extra crunchy" bits, drizzle 2 tablespoons of buttermi
 Oil Choice: Peanut oil is preferred for its high smoke point and neutral flavor, but vegetable or canola oil works perfectly well too.
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
+### Beverage Pairing
+
+- Sauvignon Blanc  
+- Sparkling Lemonade (non-alcoholic option)
+
 ### Author(s):
-Jasper
+Jasper, Ehren
